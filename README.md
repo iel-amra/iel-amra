@@ -24,7 +24,7 @@
 - Mail: ihab-17@hotmail.fr
 - Linkedin: www.linkedin.com/in/ihab-el-amrani
 
-[//]: # (Bonjour
+<!---
 **iel-amra/iel-amra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -34,4 +34,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - ⚡ Fun fact: ...
-)
+-->
