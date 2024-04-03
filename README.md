@@ -20,8 +20,8 @@
 - Libft
 
 📫 How to reach me:
-- number: 07 68 43 58 85
-- mail: ihab-17@hotmail.fr
+- Number: 07 68 43 58 85
+- Mail: ihab-17@hotmail.fr
 - Linkedin: www.linkedin.com/in/ihab-el-amrani
 
 **iel-amra/iel-amra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
