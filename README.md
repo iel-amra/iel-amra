@@ -20,7 +20,7 @@
 - Libft : A useful librarary in C for the next projects
 
 📫 How to reach me:
-- Number: 07 68 43 58 85
+- Number: +33 7 68 43 58 85
 - Mail: ihab-17@hotmail.fr
 - Linkedin: www.linkedin.com/in/ihab-el-amrani
 
@@ -29,7 +29,6 @@
 
 Here are some ideas to get you started:
 
-🔭 I’m currently searching for an internship in
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
