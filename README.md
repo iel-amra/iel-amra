@@ -11,7 +11,7 @@
 - NetPractice : An introduction to Tcp-Ip protocols and routing tables.
 - Minishell : A shell based on bash, with pipes, environnement handling, &&, || and () operators, redirections, basic built-ins, here-doc and wildcards
 - Philosophers : A project based on threads and mutexs, where the goal is to manage a group of philosphers, each one being represented with a thread. This project emphazes on optimization
-- Push_swap : The project consist of the creation of a sorting algorithm that needs to be optimized for a custom data structure given in the subject.
+- Push_swap : The goal of the project was the creation of a sorting algorithm that needs to be optimized for a custom data structure given in the subject.
 - So_long : A 2D plateformer developed with a lib called Minilibx. Minilibx only allows putting pixels to an image and reading.png or an .xpm files. The game engine needed to be implemented manually
 - Pipex : Discovering pipes and forks in C, as well as execve syscall.
 - Born2Beroot : An introduction to Virtual machines and OS installation and configuration.
