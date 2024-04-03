@@ -1,9 +1,9 @@
 ### Hi there 👋
 
-🔭 I’m a student in 42 Lyon and I'm currently searching for an internship. I'm really intersted in complex algotithms and stimulating 
+🔭 I’m a student in 42 Lyon and I'm currently searching for an internship. I'm really intersted in complex algotithms and stimulating challenges.
 
 🌱 Here is an overview of my school projects (From the newest to the first oldest):
-- Transcendance
+- Transcendance, Grade 125/100 : It's a 5 people team project where the goal was to develop a single page website of a multiplayer game. It pocesses a user management system with 3 different athentification systems, a playable game against an other distant user or against an AI oppenent, 1 vs 1 games and tournaments, multilanguages support, and other functionalities.
 - Irc
 - Inception
 - Piscine CPP
