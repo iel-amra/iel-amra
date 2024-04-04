@@ -3,7 +3,7 @@
 🔭 I’m a student in 42 Lyon and I'm currently searching for an internship. I'm really intersted in complex algotithms and stimulating challenges.
 
 🌱 Here is an overview of my school projects (From the newest to the oldest):
-- Transcendance, the final project, grade 125/100 : It's a 5 people team project where the goal was to develop a single page website of a multiplayer game. It pocesses a user management system with 3 different athentification systems, a playable game against an other distant user or against an AI oppenent, 1 vs 1 games and tournaments, multilanguages support, and other functionalities.
+- Transcendance, the final project : It's a 5 people team project where the goal was to develop a single page website of a multiplayer game. It pocesses a user management system with 3 different athentification systems, a playable game against an other distant user or against an AI oppenent, 1 vs 1 games and tournaments, multilanguages support, and other functionalities.
 - Irc : An irc protocol based chat server with basic commands.
 - Inception : A docker project based where all the images needed to be built from a clean image of debian.
 - Piscine CPP : A discovery of C++, from basic to complex notions such as templates, algorithms, casts and polymorphism (with different exercises such as the diamond problem)
