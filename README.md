@@ -52,13 +52,13 @@
 
 - Pipex ➰: A project focusing on pipes and forks in C, as well as the execve syscall.
 
-- Born2Beroot: An introduction to virtual machines and OS installation and configuration.
+- Born2Beroot 🔐: An introduction to virtual machines and OS installation and configuration.
 
-- Get_next_line: A function in C for reading lines from a file with minimal calls to the read syscall.
+- Get_next_line 👓: A function in C for reading lines from a file with minimal calls to the read syscall.
 
-- ft_printf: A function with similar behavior to printf, including some of its flags.
+- ft_printf 📝: A function with similar behavior to printf, including some of its flags.
 
-- Libft: A useful C library for future projects.
+- Libft 📘: A useful C library for future projects.
 
 📫 How to reach me:
 
