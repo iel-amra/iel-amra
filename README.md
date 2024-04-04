@@ -30,23 +30,23 @@
 
 🌱 Here is an overview of my school projects (from the newest to the oldest):
 
-- Transcendance (Final Project): This was a team project involving five members. Our goal was to develop a single-page website for a multiplayer game. It features a user management system with three different authentication methods, playable games against either another distant user or an AI opponent, 1 vs 1 games, tournaments, multilanguage support, and other functionalities.
+- Transcendance 🏓 (Final Project): This was a team project involving five members. Our goal was to develop a single-page website for a multiplayer game. It features a user management system with three different authentication methods, playable games against either another distant user or an AI opponent, 1 vs 1 games, tournaments, multilanguage support, and other functionalities.
 
-- IRC: A chat server based on the IRC protocol with basic commands.
+- IRC 💬: A chat server based on the IRC protocol with basic commands.
 
-- Inception: A Docker project where all the images needed to be built from a clean Debian image.
+- Inception 🐳: A Docker project where all the images needed to be built from a clean Debian image.
 
-- Piscine CPP: An exploration of C++, covering basic to complex concepts such as templates, algorithms, casts, and polymorphism (including exercises such as the diamond problem).
+- Piscine 🇨++: An exploration of C++, covering basic to complex concepts such as templates, algorithms, casts, and polymorphism (including exercises such as the diamond problem).
 
-- Cub3D: An implementation of raycasting using only the processor and a library called Minilibx, which allows putting pixels to an image and reading .png or .xpm files.
+- Cub3D 🔦: An implementation of raycasting using only the processor and a library called Minilibx, which allows putting pixels to an image and reading .png or .xpm files.
 
-- NetPractice: An introduction to TCP/IP protocols and routing tables.
+- NetPractice 🌐: An introduction to TCP/IP protocols and routing tables.
 
-- Minishell: A shell based on Bash, featuring pipes, environment handling, &&, ||, and () operators, redirections, basic built-ins, here-documents, and wildcards.
+- Minishell 🐧: A shell based on Bash, featuring pipes, environment handling, &&, ||, and () operators, redirections, basic built-ins, here-documents, and wildcards.
 
-- Philosophers: A project based on threads and mutexes, focusing on managing a group of philosophers, each represented by a thread. This project emphasizes optimization.
+- Philosophers 🍝: A project based on threads and mutexes, focusing on managing a group of philosophers, each represented by a thread. This project emphasizes optimization.
 
-- Push_swap: The goal of this project was to create a sorting algorithm optimized for a custom data structure specified in the project.
+- Push_swap : The goal of this project was to create a sorting algorithm optimized for a custom data structure specified in the project.
 
 - So_long: A 2D platformer developed with a library called Minilibx. Similar to Cub3D, Minilibx allows putting pixels to an image and reading .png or .xpm files. The game engine needed to be implemented manually.
 
