@@ -46,11 +46,11 @@
 
 - Philosophers 🍝: A project based on threads and mutexes, focusing on managing a group of philosophers, each represented by a thread. This project emphasizes optimization.
 
-- Push_swap : The goal of this project was to create a sorting algorithm optimized for a custom data structure specified in the project.
+- Push_swap 🔄: The goal of this project was to create a sorting algorithm optimized for a custom data structure specified in the project.
 
-- So_long: A 2D platformer developed with a library called Minilibx. Similar to Cub3D, Minilibx allows putting pixels to an image and reading .png or .xpm files. The game engine needed to be implemented manually.
+- So_long 🧙: A 2D platformer developed with a library called Minilibx. Similar to Cub3D, Minilibx allows putting pixels to an image and reading .png or .xpm files. The game engine needed to be implemented manually.
 
-- Pipex: A project focusing on pipes and forks in C, as well as the execve syscall.
+- Pipex ➰: A project focusing on pipes and forks in C, as well as the execve syscall.
 
 - Born2Beroot: An introduction to virtual machines and OS installation and configuration.
 
