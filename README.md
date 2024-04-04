@@ -1,4 +1,4 @@
-### Hi there 👋
+<!-- ### Hi there 👋
 
 🔭 I’m a student in 42 Lyon and I'm currently searching for an internship. I'm really intersted in complex algotithms and stimulating challenges.
 
@@ -22,6 +22,48 @@
 📫 How to reach me:
 - Number: +33 7 68 43 58 85
 - Mail: ihab-17@hotmail.fr
+- Linkedin: www.linkedin.com/in/ihab-el-amrani -->
+
+
+### Hi there! 👋
+🔭 I’m a student at 42 Lyon, currently searching for an internship. I'm really interested in complex algorithms and stimulating challenges.
+
+🌱 Here is an overview of my school projects (from the newest to the oldest):
+
+- Transcendance (Final Project): This was a team project involving five members. Our goal was to develop a single-page website for a multiplayer game. It features a user management system with three different authentication methods, playable games against either another distant user or an AI opponent, 1 vs 1 games, tournaments, multilanguage support, and other functionalities.
+
+- IRC: A chat server based on the IRC protocol with basic commands.
+
+- Inception: A Docker project where all the images needed to be built from a clean Debian image.
+
+- Piscine CPP: An exploration of C++, covering basic to complex concepts such as templates, algorithms, casts, and polymorphism (including exercises such as the diamond problem).
+
+- Cub3D: An implementation of raycasting using only the processor and a library called Minilibx, which allows putting pixels to an image and reading .png or .xpm files.
+
+- NetPractice: An introduction to TCP/IP protocols and routing tables.
+
+- Minishell: A shell based on Bash, featuring pipes, environment handling, &&, ||, and () operators, redirections, basic built-ins, here-documents, and wildcards.
+
+- Philosophers: A project based on threads and mutexes, focusing on managing a group of philosophers, each represented by a thread. This project emphasizes optimization.
+
+- Push_swap: The goal of this project was to create a sorting algorithm optimized for a custom data structure specified in the project.
+
+- So_long: A 2D platformer developed with a library called Minilibx. Similar to Cub3D, Minilibx allows putting pixels to an image and reading .png or .xpm files. The game engine needed to be implemented manually.
+
+- Pipex: A project focusing on pipes and forks in C, as well as the execve syscall.
+
+- Born2Beroot: An introduction to virtual machines and OS installation and configuration.
+
+- Get_next_line: A function in C for reading lines from a file with minimal calls to the read syscall.
+
+- ft_printf: A function with similar behavior to printf, including some of its flags.
+
+- Libft: A useful C library for future projects.
+
+📫 How to reach me:
+
+- Phone: +33 7 68 43 58 85
+- Email: ihab-17@hotmail.fr
 - Linkedin: www.linkedin.com/in/ihab-el-amrani
 
 <!---
