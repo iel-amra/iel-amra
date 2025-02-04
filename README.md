@@ -26,7 +26,7 @@
 
 
 ### Hi there! 👋
-🔭 I’m a student at 42 Lyon, currently searching for an internship. I'm really interested in complex algorithms and stimulating challenges.
+🔭 I’m a student at 42 Lyon. I'm really interested in complex algorithms and stimulating challenges.
 
 🌱 Here is an overview of my school projects (from the newest to the oldest):
 
